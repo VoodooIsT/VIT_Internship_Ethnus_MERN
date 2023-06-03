@@ -1,0 +1,31 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  h7.top {
+    position:absolute;
+    margin: 40px;
+    padding: 1em;
+  }
+  
+  .container {
+    margin:auto;
+    min-height: 200px;
+    width: 500px;
+    background: dodgerblue;
+  }
+  
+  .box-2 {
+      width: 300px;
+    min-height: 390px;
+    padding: 1em;
+ 
+  }
+  .top{
+      background-color: yellow;
+  }
+  
+  
